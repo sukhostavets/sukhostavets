@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 💻 Tech Stack:
+
+[![Node.js, TypeScript, JavaScript, AWS, PostgreSQL, Redis, GCP, Python](https://skillicons.dev/icons?i=nodejs,ts,js,aws,postgresql,redis,gcp,python)](https://skillicons.dev)
